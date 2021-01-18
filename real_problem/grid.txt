@@ -1,0 +1,10 @@
+0.046      #W
+0.003      #H
+47         #nW
+4          #nH
+2          #pc
+146.68     #alfa
+5          #t_ambient - ambient temperature
+0.1        #dtau - simulation step time
+900        #simulation_time
+25         #t0 - initial temperature
